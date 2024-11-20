@@ -67,10 +67,10 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 RAMADHAN YUSUF 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Group = https://chat.whatsapp.com/IM57veJplECHwSiwI2iXaY
+❷ || WhattsApp Group = https://whatsapp.com/channel/0029VakZxvW8Pgs8FIrFQx0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Join My WhatsApp Group 
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?👉 https://t.me/Ramadhanyusuf✅
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Ramadhan Yusuf*
 _____________________________________
