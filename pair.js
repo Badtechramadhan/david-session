@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃BADTECH_MD_V1 SESSION IS 
+┃RMH-BOTS-ANTIBUG SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 RAMADHAN YUSUF 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakZxvW8Pgs8FIrFQx0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support GROUP 
-Wanna Talk chat me up +246788028745
+Wanna Talk chat me up +256703025571
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 RAMADHAN YUSUF*
 
